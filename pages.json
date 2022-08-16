@@ -34,8 +34,8 @@
 		"backgroundColor": "#F8F8F8"
 	},
 	"tabBar":{
-		"color":"#red",
-		"selectedColor":"",
+		"color":"#BBBAC7",
+		"selectedColor":"#2C2C2C",
 		"borderStyle":"black",
 		"list":[
 			{
@@ -57,5 +57,6 @@
 				"pagePath":"pages/my/my"
 			}
 		]
-	}
+	},
+	"uniIdRouter": {}
 }
